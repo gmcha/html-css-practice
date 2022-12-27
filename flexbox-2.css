@@ -1,0 +1,23 @@
+.container{
+    background: beige;
+    height: 100vh;
+    display: flex;
+  }
+  
+  .item{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+  }
+  
+  .item1{
+    background: #ef9a9a;
+  }
+  
+  .item2{
+    background: #ce93d8;
+  }
+  
+  .item3{
+    background: #90caf9;
+  }

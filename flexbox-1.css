@@ -1,0 +1,49 @@
+.container{
+    background: beige;
+    height: 100vh; /* vh: container의 부모(=body 태그)와 상관없이 viewport의 100%에 적용*/
+    /* %: 부모태그의 height의 100%만큼에 적용*/
+  }
+  
+  .item{
+    
+  }
+  
+  .item1{
+    background: #ef9a9a;
+  }
+  
+  .item2{
+    background: #f48fb1;
+  }
+  
+  .item3{
+    background: #ce93d8;
+  }
+  
+  .item4{
+    background: #b39ddb;
+  }
+  
+  .item5{
+    background: #90caf9;
+  }
+  
+  .item6{
+    background: #a5d6a7;
+  }
+  
+  .item7{
+    background: #e6ee9c;
+  }
+  
+  .item8{
+    background: #fff59d;
+  }
+  
+  .item9{
+    background: #ffca28;
+  }
+  
+  .item10{
+    background: #ffab91;
+  }
