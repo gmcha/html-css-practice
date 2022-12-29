@@ -1,0 +1,14 @@
+div {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    background: red;
+  }
+  
+  .container {
+    background: yellow;
+  }
+  
+  .box {
+    background: blue;
+  }

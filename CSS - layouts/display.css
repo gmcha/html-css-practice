@@ -1,0 +1,13 @@
+div, span {
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+  }
+  
+  div {
+    background: red;
+  }
+  
+  span {
+    background: blue;
+  }
