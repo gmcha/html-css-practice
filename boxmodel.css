@@ -1,0 +1,17 @@
+.red {
+    width: 100px;
+    height: 100px;
+    
+    padding: 20px 10px 5px 3px; /* clockwise, from padding-top */
+    padding: 20px 0px; /* padding-top && padding-bottom : 20px each  */ /* padding-left && padding-right: 0px each*/
+    /* padding-top: 100px;
+    padding-right: 100px; */ 
+    
+    margin: 20px;
+    
+    border: 2px dashed red; /* border-width, border-style, border-color */
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: pink; */
+    background: yellow;
+  }
