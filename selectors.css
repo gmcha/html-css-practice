@@ -1,0 +1,42 @@
+/* selector {
+  property: value;
+} */
+
+* {
+    color: green
+  }
+  
+  li {
+    color: blue;
+  }
+  
+  #special {
+    color: pink;
+  }
+  
+  .red {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+  }
+  
+  button:hover{
+    color: red;
+    background: beige;
+  }
+  
+  a[href]{
+    color: blue;
+  }
+  
+  a[href="naver.com"]{
+    color: orange;
+  }
+  
+  a[href^="naver"]{
+    color: purple;
+  }
+  
+  a[href$=".com"]{
+    color: red;
+  }
